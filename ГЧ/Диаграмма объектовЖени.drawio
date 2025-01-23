@@ -1,0 +1,163 @@
+<mxfile host="Electron" modified="2024-07-02T10:08:28.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="CFo2OhCuv4wBIpm1IGd2" version="24.5.3" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1219" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-31" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="595" y="220" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-1" value="Преподаватель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-2" value="Курс" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="590" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="LUi5VOqYY_TmOe-FUxRv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="280" as="sourcePoint" />
+            <mxPoint x="570" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-4" value="Модули" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="399" y="464" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-5" value="Уроки" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="218" y="597" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-6" value="Тесты" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="532.5" y="563" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="LUi5VOqYY_TmOe-FUxRv-4" source="LUi5VOqYY_TmOe-FUxRv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="659" as="sourcePoint" />
+            <mxPoint x="360" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="LUi5VOqYY_TmOe-FUxRv-6" source="LUi5VOqYY_TmOe-FUxRv-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="560" as="sourcePoint" />
+            <mxPoint x="540" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="LUi5VOqYY_TmOe-FUxRv-2" source="LUi5VOqYY_TmOe-FUxRv-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="480" as="sourcePoint" />
+            <mxPoint x="584" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-10" value="1: Добавление урока" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-11" value="2: Создать урок" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="428.09000000000003" y="390.78000000000003" width="58.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="514" as="sourcePoint" />
+            <mxPoint x="277" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="452.18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-16" value="3: Добавление теста" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-17" value="4: Создать тест" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="414.71999999999997" y="378.6" width="61.07" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-18" value="16: Получить оценку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=33;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="504" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="514" as="sourcePoint" />
+            <mxPoint x="530" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-21" value="5: Запрос отчёта о прогрессе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-23" value="7: Отчёт о прогрессе учеников" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="347.5" y="290" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="290" as="sourcePoint" />
+            <mxPoint x="340" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-25" value="8: Оставить комментарий" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="160" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-26" value="9: Оставить комментарий к уроку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=313;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="383.46999999999997" y="368.6" width="92.32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-27" value="10: Добавить новый комментарий" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=328;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="262" y="524" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-28" value="11: Редактировать урок" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="140" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-29" value="12: Редактировать урок" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;rotation=314;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="380" y="360" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-30" value="13: Редактирование" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;rotation=326;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="259" y="524" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-32" value="6: Создание отчёта" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="582.5" y="190" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-33" value="14: Получить оценку за тест" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="120" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="516.05" y="574" as="sourcePoint" />
+            <mxPoint x="456.05" y="534" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-35" value="17: Оценка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=33;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="544" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-40" value="18: Оценка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-50;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500.00000000000006" y="402.18" width="58.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488.06" y="440.0000000000001" as="sourcePoint" />
+            <mxPoint x="550" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-42" value="19: Оценка за тест" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="347.5" y="310" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-46" value="15: Запрос оценки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=ISOCPEUR;fontSource=https%3A%2F%2Fdb.onlinewebfonts.com%2Ft%2F4b5ae315f5df148f0ab479a7cedc9832.ttf;rotation=314;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="362.5" y="348.6" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.909;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LUi5VOqYY_TmOe-FUxRv-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="638" y="245" as="sourcePoint" />
+            <mxPoint x="610" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUi5VOqYY_TmOe-FUxRv-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.909;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="632" y="245" as="sourcePoint" />
+            <mxPoint x="635" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

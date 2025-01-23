@@ -1,0 +1,477 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\EducatITion.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EducatITion.lkez9jxlv8.bundle.scp.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\auth.css",
+      "PackagePath": "staticwebassets\\css\\auth.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\choice.css",
+      "PackagePath": "staticwebassets\\css\\choice.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\courses.css",
+      "PackagePath": "staticwebassets\\css\\courses.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\modalStyles.css",
+      "PackagePath": "staticwebassets\\css\\modalStyles.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\reg.css",
+      "PackagePath": "staticwebassets\\css\\reg.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Len\\EN.png",
+      "PackagePath": "staticwebassets\\imgs\\Len\\EN.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Len\\RU.png",
+      "PackagePath": "staticwebassets\\imgs\\Len\\RU.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\background.png",
+      "PackagePath": "staticwebassets\\imgs\\background.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\courses-imgs\\Rectangle 7-1.png",
+      "PackagePath": "staticwebassets\\imgs\\courses-imgs\\Rectangle 7-1.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\courses-imgs\\Rectangle 7-2.png",
+      "PackagePath": "staticwebassets\\imgs\\courses-imgs\\Rectangle 7-2.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\courses-imgs\\Rectangle 7-3.png",
+      "PackagePath": "staticwebassets\\imgs\\courses-imgs\\Rectangle 7-3.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\courses-imgs\\Rectangle 7-4.png",
+      "PackagePath": "staticwebassets\\imgs\\courses-imgs\\Rectangle 7-4.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\courses-imgs\\Rectangle 7-5.png",
+      "PackagePath": "staticwebassets\\imgs\\courses-imgs\\Rectangle 7-5.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\courses-imgs\\Rectangle 7.png",
+      "PackagePath": "staticwebassets\\imgs\\courses-imgs\\Rectangle 7.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\fonts\\Gotham Pro.ttf",
+      "PackagePath": "staticwebassets\\imgs\\fonts\\Gotham Pro.ttf"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\fonts\\TTTravelsMedium.ttf",
+      "PackagePath": "staticwebassets\\imgs\\fonts\\TTTravelsMedium.ttf"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\footer\\Footer.png",
+      "PackagePath": "staticwebassets\\imgs\\footer\\Footer.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\Group 15.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\Group 15.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\carbon_next-filled.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\carbon_next-filled.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\carbon_previous-filled.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\carbon_previous-filled.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\catalog.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\catalog.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\cross.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\cross.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\house-black.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\house-black.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\house.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\house.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\load.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\load.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\logo.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\logo.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\plus-transparent.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\plus-transparent.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\plus.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\plus.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\sort.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\sort.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\user_photo.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\user_photo.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\yes.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\yes.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\icons\\zoom.png",
+      "PackagePath": "staticwebassets\\imgs\\icons\\zoom.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\menu.png",
+      "PackagePath": "staticwebassets\\imgs\\menu.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\1.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\1.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\2.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\2.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\3.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\3.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\4.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\4.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\5.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\5.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\6.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\6.jpeg"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\7.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\7.jpeg"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\8.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\8.jpeg"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\9.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\9.jpeg"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\Ellipse 1.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\Ellipse 1.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\Ellipse 2.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\Ellipse 2.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\imgs\\Сarousel\\Image.png",
+      "PackagePath": "staticwebassets\\imgs\\Сarousel\\Image.png"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\js\\indFormsSwitcher.js",
+      "PackagePath": "staticwebassets\\js\\indFormsSwitcher.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\js\\indModalOpener.js",
+      "PackagePath": "staticwebassets\\js\\indModalOpener.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\js\\modalScript.js",
+      "PackagePath": "staticwebassets\\js\\modalScript.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\js\\saveUserType.js",
+      "PackagePath": "staticwebassets\\js\\saveUserType.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "B:\\EducatITion\\EducatITion\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EducatITion.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EducatITion.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EducatITion.props",
+      "PackagePath": "build\\EducatITion.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EducatITion.props",
+      "PackagePath": "buildMultiTargeting\\EducatITion.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EducatITion.props",
+      "PackagePath": "buildTransitive\\EducatITion.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

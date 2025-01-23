@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2024-05-08T07:34:59.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="tn6yQ8mt1Gzu8GVic58Z" version="24.2.5" type="device">
+  <diagram id="DwERs3NYEbz36ULuB_4H" name="А0">
+    <mxGraphModel dx="1050" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qvXezxcTgYno0UO3-qgE-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Прохождение курса от лица учащегося&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="554" width="300" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-2" value="А0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="483" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="qvXezxcTgYno0UO3-qgE-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="612" as="sourcePoint" />
+            <mxPoint x="382" y="737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-4" value="Логин и пароль, название курса,&lt;div&gt;соответствие по фильтрам&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="128" y="556" width="102" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="qvXezxcTgYno0UO3-qgE-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="444" as="sourcePoint" />
+            <mxPoint x="382" y="737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-6" value="быть зарегестрированным пользователем,авторизироваться&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="393" y="443" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="qvXezxcTgYno0UO3-qgE-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="726" as="sourcePoint" />
+            <mxPoint x="389" y="744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-8" value="&lt;div&gt;&lt;div&gt;Ученик&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="393" y="686" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qvXezxcTgYno0UO3-qgE-9" value="Использование курса" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="524" y="585" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10TEBKtfvicM4IkZIkzU-2" value="выбранный курст должен быть купленный или же он должен быть&amp;nbsp; бесплатный&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="393" y="508" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="10TEBKtfvicM4IkZIkzU-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="532" y="611.5" as="sourcePoint" />
+            <mxPoint x="708" y="611.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
